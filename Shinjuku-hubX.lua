@@ -1,19 +1,19 @@
 --[[
-    Mid-Journey
+    shinjukuhubx
     SJAD © 2025
 ]]
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "Mid-Journey Hub (discord.gg/6UaRDjBY42)",
+    Name = "Shinjuku Hub (shinpogii)",
     LoadingTitle = "Evade v2 Rewritten",
-    LoadingSubtitle = "Credits: (SJAD) - Sea Journeys Advanced Development",
-    Theme = "Light",
-    ShowText = "MidWare GUI",
+    LoadingSubtitle = "Credits: (shin) - shinpogi",
+    Theme = "Dark",
+    ShowText = "shinjuku GUI",
     Icon = 105495960707973,
     ConfigurationSaving = {
         Enabled = true,
-        FolderName = "SJAD_Evade",
+        FolderName = "Shin_Evade",
         FileName = "EvadeConfig"
     },
     Discord = {
@@ -23,13 +23,13 @@ local Window = Rayfield:CreateWindow({
     },
     KeySystem = false,
     KeySettings = {
-        Title = "SJAD Keysystem",
+        Title = "shin Keysystem",
         Subtitle = "Sorry I need more member :)",
-        Note = "Get from discord server : discord.gg/6UaRDjBY42",
-        FileName = "SJAD",
+        Note = "Get from discord server : https://discord.gg/ztnAKzpN",
+        FileName = "shin",
         SaveKey = false,
         GrabKeyFromSite = false,
-        Key = {"SJAD-0001-111"}
+        Key = {"SHIN-POGI-HEHE"}
     }
 })
 
