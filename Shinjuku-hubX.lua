@@ -1,6 +1,6 @@
 --[[
-    shinjukuhubx
-    SJAD © 2025
+    ShinjukuHubx
+    SHIN © 2025
 ]]
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
@@ -798,7 +798,7 @@ MiscTab:CreateSlider({
 })
 
 -- Credit label
-MiscTab:CreateLabel("Mid-Journey — SJAD © 2025")
+MiscTab:CreateLabel("ShinJuku HubX — SHIN © 2025")
 
 -- Original background loops still running
 task.spawn(function()
